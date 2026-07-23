@@ -1,2 +1,6 @@
-# Ignore build artifacts
+# pll
+rtl/gowin_rpll.v
+
+# build artifacts
 build/*
+
